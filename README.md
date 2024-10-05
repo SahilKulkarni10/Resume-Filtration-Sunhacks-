@@ -165,9 +165,7 @@ To upload a resume using **Postman**, follow these steps:
 └── README.md              # Project documentation
 ```
 
-## License
 
-This project is licensed under the MIT License.
 
 ---
 
