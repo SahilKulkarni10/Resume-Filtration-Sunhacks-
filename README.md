@@ -1,6 +1,4 @@
-Here’s an example `README.md` file that you can use for your GitHub repository about a **Resume Filtration** project using Flask, where users can upload resumes (CSV or PDF) and filter based on skills using either **cURL** or **Postman**.
 
----
 
 # Resume Filtration System
 
